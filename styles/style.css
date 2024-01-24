@@ -2,3 +2,12 @@ img.img-thumbnail{
     width: 80%;
     height: 80%;
 }
+.titulo{
+    color: antiquewhite;
+    margin: 20px;
+}
+
+.cascaron{
+    margin: 20px;
+    text-align: center;
+}
